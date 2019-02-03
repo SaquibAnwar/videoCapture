@@ -12,9 +12,9 @@ a python script to detect motion.
 * Pandas
 
 ## Install dependencies
-'''sh
+```sh
 pip install opencv-python
-'''
-'''sh
+```
+```sh
  pip install pandas
  ```
