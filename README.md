@@ -14,6 +14,7 @@ a python script to detect motion.
 ## Install dependencies
 '''sh
 pip install opencv-python
+'''
 '''sh
  pip install pandas
  ```
